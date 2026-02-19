@@ -1,0 +1,23 @@
+{
+  "name": "deepdarkneon-theme",
+  "displayName": "Deep Dark Neon",
+  "description": "Dark custom theme with rich colors",
+  "version": "0.0.1",
+  "icon": "images/icon.png",
+  "publisher": "NeYr0n",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Deep Dark Neon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/deepdarkneon-theme.json"
+      }
+    ]
+  }
+}
