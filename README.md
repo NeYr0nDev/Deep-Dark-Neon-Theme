@@ -1,4 +1,4 @@
-![Icon](./images/icon.png)
+![Icon](./images/icon-small.png)
 
 # Dark Night Theme
 
