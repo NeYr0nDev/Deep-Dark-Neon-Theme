@@ -166,6 +166,19 @@
       "settings": {
         "foreground": "#999999"
       }
+    },
+    {
+      "scope": [
+        "keyword.operator",
+        "keyword.operator.assignment",
+        "keyword.operator.arithmetic",
+        "keyword.operator.relational",
+        "keyword.operator.logical",
+        "keyword.operator.comparison"
+      ],
+      "settings": {
+        "foreground": "#f80000"
+      }
     }
   ]
 }
