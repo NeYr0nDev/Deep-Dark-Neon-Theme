@@ -1,6 +1,6 @@
 ![Icon](./images/icon-small.png)
 
-# Dark Night Theme
+# Deep Dark Neon Theme
 
 Custom dark theme for VS Code in the Neon style.
 
