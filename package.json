@@ -3,7 +3,7 @@
   "displayName": "Deep Dark Neon",
   "description": "Dark custom theme with rich colors",
   "version": "0.0.1",
-  "icon": "images/icon.png",
+  "icon": "./images/icon.png",
   "publisher": "NeYr0n",
   "author": {
     "name": "Russkikh Nikita",

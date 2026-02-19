@@ -16,6 +16,6 @@ Custom dark theme for VS Code in the Neon style.
 4. Press `Ctrl+K Ctrl+T`
 5. Select `Dark Night`
 
-## Скриншот
+## Screenshot
 
 ![Screenshot](images/screenshot.png)
