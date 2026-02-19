@@ -5,6 +5,14 @@
   "version": "0.0.1",
   "icon": "images/icon.png",
   "publisher": "NeYr0n",
+  "author": {
+    "name": "Russkikh Nikita",
+    "url": "https://github.com/NeYr0nDev",
+    "email": "neyr0nfrontdev@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/NeYr0nDev/Deep-Dark-Neon-Theme"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
